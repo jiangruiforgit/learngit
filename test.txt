@@ -3,3 +3,4 @@
 3.add one line again
 4.add one line by dev branch
 5.add one line by stash
+6.line 6
